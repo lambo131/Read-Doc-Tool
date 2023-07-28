@@ -1,0 +1,7 @@
+OPENAI_API_KEY.pkl
+stuff/
+.chroma/
+test.ipynb
+test_app.py
+.env
+envs/
